@@ -1,3 +1,11 @@
+/*
+
+Author: Biswarup Bhattacharya
+PE Handle: biswarupb
+Date: 07 May 2014
+
+*/
+
 #include <cstdio>
 #include <algorithm>
 #include <utility>
